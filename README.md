@@ -1,4 +1,4 @@
-- Хранилище личных инструкций
+- [Хранилище личных инструкций](https://github.com/vladrunk/myRTFM/wiki)
   - Instance Oracle Cloud
       - Ubuntu22.04(amd64)
         - [Настройка для бота Selenium Chrome](https://github.com/vladrunk/myRTFM/wiki/Instance-Oracle-Cloud-%7C-Ubuntu22.04(amd64)-%7C-Настройка-для-бота-Selenium-Chrome#настройка-instance-vps-oracle-cloud-под-ubuntu2204amd64-для-бота-selenium-chrome)
