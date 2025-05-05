@@ -12,6 +12,6 @@
   - OCI
     - [Install and configure MOSH](https://github.com/vladrunk/myRTFM/wiki/OCI-%7C-Install-and-configure-MOSH)
     - [Install and configure ZSH environment (Oh My Zsh, Powerlevel10k)](https://github.com/vladrunk/myRTFM/wiki/OCI-%7C-Install-and-configure-ZSH-environment-(Oh-My-Zsh,-Powerlevel10k))
-    - [Add user](https://github.com/vladrunk/myRTFM/wiki/OCI-%7C-Add-user)
+    - [Manage users](https://github.com/vladrunk/myRTFM/wiki/OCI-%7C-Manage-users)
   - VPS
     - [Django (Gunicorn, Nginx)](https://github.com/vladrunk/myRTFM/wiki/VPS-%7C-Ubuntu22.04-%7C-Django-(Gunicorn,-Nginx))
