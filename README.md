@@ -14,4 +14,4 @@
     - [Install and configure ZSH environment (Oh My Zsh, Powerlevel10k)](https://github.com/vladrunk/myRTFM/wiki/OCI-%7C-Install-and-configure-ZSH-environment-(Oh-My-Zsh,-Powerlevel10k))
     - [Manage users](https://github.com/vladrunk/myRTFM/wiki/OCI-%7C-Manage-users)
   - VPS
-    - [Django (Gunicorn, Nginx)](https://github.com/vladrunk/myRTFM/wiki/VPS-%7C-Ubuntu22.04-%7C-Django-(Gunicorn,-Nginx))
+    - [Ubuntu 24.04 | Django (Gunicorn, Nginx)](https://github.com/vladrunk/myRTFM/wiki/VPS-%7C-Ubuntu-24.04-%7C-Django-(Gunicorn,-Nginx))
